@@ -1,0 +1,42 @@
+.TH Html-Documentation 7 25-May-2022 Archetypic Html-Manual
+
+.SH Name
+HTML -\ Hyper Text Markup Language
+
+.SH Description
+
+.PP
+Markup language dominantly used on Internet. Currently HTML 5.2 is used [1]. HTML files consists of multiple elements.
+
+.SH Declaration
+
+.PP
+The file must begin with the declaration
+.B
+<!DOCTYPE html>.
+.B
+DOCTYPE
+is not case sensitive. It must appear only once.
+
+.SH Metadata
+
+.PP
+Metadata is contained within
+.B
+<head>.
+.B
+<head>
+can contain
+.B
+<title>
+.B
+<style>
+.B
+<meta>
+.B
+<link>
+.B
+<script>,
+and
+.B
+<base>
