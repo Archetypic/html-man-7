@@ -1,0 +1,5 @@
+* HTML documentation in man page format.
+  
+* Contact: archetypic at archtypicmux dot com
+
+* License: GPLv3+
